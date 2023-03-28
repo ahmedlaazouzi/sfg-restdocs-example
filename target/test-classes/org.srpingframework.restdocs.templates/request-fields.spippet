@@ -1,0 +1,9 @@
+|===
+    |Path|Type|Description|Contraints
+    {{#fields}}
+          |{{path}}
+          |{{type}}
+          |{{description}}
+          |{{constraints}}
+     {{/fields}}
+     |===
